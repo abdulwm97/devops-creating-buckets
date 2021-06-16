@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/80905254/122221799-8d477f00-cea9-11eb-97c6-cebaa10a8e39.png)
 Availability zones are data centres, there are atleast 2 or 3 in each region. multi AAC availablility zone.There are physical az(availability zones). When working with clients from other locations, you have to deploy to the nearest availability zone for where the app is meant to be. AWS created a GovCloud, only NASA and other government sectors have access to that cloud.
 
 scale out means t2 micro, more servers of of the same type and size.
