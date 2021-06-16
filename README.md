@@ -11,22 +11,21 @@ What is aws cli???
 trello stores images on the aws s3 bucket
 
 s3 bucket has a naming convention(certain character's like '_' and capital letters can't be used)
-
- `sudo apt-get install python`
- `python --version`
- `sudo apt-get install python-pip -y`
- `sudo apt-get install awscli`
-`aws configure`
-`aws s3 ls`
-`aws s3 mb s3://devops-bootcamp-abdul-bucket` - Makes bucket
-`sudo nano devops_bootcamp_test.text`
-`cat devops_bootcamp_test.text`
-`aws s3 cp test_file.txt s3://devops-bootcamp-abdul-bucket` - sends file to bucket
-`rm devops_bootcamp_test.text`
-`aws s3 sync s3://devops-bootcamp-abdul-bucket/ devops_bootcamp_test.text`
- `cat devops_bootcamp_test.text/`
-`aws s3 rm s3://devops-bootcamp-abdul-bucket/devops_bootcamp_test.text`
-`aws s3 rb s3://devops-bootcamp-abdul-bucket`
+- `sudo apt-get install python`
+- `python --version`
+- `sudo apt-get install python-pip -y`
+- `sudo apt-get install awscli`
+- `aws configure`
+- `aws s3 ls`
+- `aws s3 mb s3://devops-bootcamp-abdul-bucket` - Makes bucket
+- `sudo nano devops_bootcamp_test.text`
+- `cat devops_bootcamp_test.text`
+- `aws s3 cp test_file.txt s3://devops-bootcamp-abdul-bucket` - sends file to bucket
+- `rm devops_bootcamp_test.text`
+- `aws s3 sync s3://devops-bootcamp-abdul-bucket/ devops_bootcamp_test.text`
+-  `cat devops_bootcamp_test.text/`
+- `aws s3 rm s3://devops-bootcamp-abdul-bucket/devops_bootcamp_test.text`
+- `aws s3 rb s3://devops-bootcamp-abdul-bucket`
 
 
 
