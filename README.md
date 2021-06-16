@@ -31,3 +31,6 @@ s3 bucket has a naming convention(certain character's like '_' and capital lette
 
 
 s3 storage class are frequently used non frequently used(s3 glacier) lower charges, have to give 24 hours notice, not immediately available.
+
+![image](https://user-images.githubusercontent.com/80905254/122228040-5f653900-ceaf-11eb-9e6c-87389c20cb87.png)
+
