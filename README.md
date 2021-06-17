@@ -5,7 +5,6 @@ scale out means t2 micro, more servers of of the same type and size.
 
 scale up increasing the size of the server. It is done when when you are working towards a minimum requirement, because you can't scale out before the minimum requirements is met.
 
-What is aws cli??? 
 
  aws s3 ls lists all s3 buckets available.(Buckets are storage in the cloud)
 
